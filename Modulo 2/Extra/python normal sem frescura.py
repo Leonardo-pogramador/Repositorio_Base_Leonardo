@@ -42,3 +42,4 @@ elif carro == "palio":
     print(carro[4])
     valor_total = valor_aluguel[4] * dias
     print(valor_aluguel[4])
+
